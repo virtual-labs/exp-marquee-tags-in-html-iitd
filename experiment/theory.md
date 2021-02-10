@@ -1,4 +1,4 @@
-###Theory<br>
+
 <b>1.1 Introduction</b>
 The HTML ‹marquee› tag is used for scrolling piece of text or image displayed either horizontally across or vertically down your web site page depending on the settings.
 
