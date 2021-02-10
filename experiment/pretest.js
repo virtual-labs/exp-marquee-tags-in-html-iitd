@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹marquee› tag is used for scrolling piece of text or image.",
+      question: "â€¹marqueeâ€º tag is used for scrolling piece of text or image.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹marquee› is an empty element.",
+      question: "â€¹marqueeâ€º is an empty element.",
       answers: {
         a: "True",
         b: "False"
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Which is not a property of attribute behaviour of ‹marquee› tag?",
+      question: "Which is not a property of attribute behaviour of â€¹marqueeâ€º tag?",
       answers: {
         a: "Blur",
         b: "Scroll",
@@ -122,9 +122,9 @@
 	{
       question: "What is the correct HTML for creating a marquee?",
       answers: {
-        a: "‹marquee attribute="value" /›",
-        b: "‹marquee attribute="value"›‹marquee/›",
-        c: "‹/marquee attribute="value"›",
+        a: "â€¹marquee attribute=value /â€º",
+        b: "â€¹marquee attribute=valueâ€ºâ€¹marquee/â€º",
+        c: "â€¹/marquee attribute=valueâ€º",
         d: "All of the above"
       },
       correctAnswer: "a"
