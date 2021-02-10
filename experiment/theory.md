@@ -17,13 +17,13 @@ The HTML ‹marquee› tag is used for scrolling piece of text or image displaye
   	behavior         scroll, slide, alternate         Defines the scrolling type.
   	direction        up, down, left, righ             Sets the direction for the scrolling content.
   	bgcolor          rgb(x,x,x), #xxxxxx, colorname   Used to give a background color.
-  	loop             number							                    Defines how many times the content will scroll. If we don't   define this, the content will scroll forever.
-  	scrollamount     number							                    Defines the scrolling amount at each interval in pixels. Default value is 6.
-  	width            pixel, percentage				            Defines the marquee's width.
-  	height           pixel, percentage				            Defines the marquee's height.
-  	hspace           pixels							                    Defines horizontal space around the marquee.
-  	vspace           pixels							                    Defines vertical space around the marquee.
-  	scrolldelay      seconds							                   Defines how long delay will be between each jump. The   default value is 85 and smaller amounts than 60 will be   ignored.
+  	loop             number                           Defines how many times the content will scroll. If we don't   define this, the content will scroll forever.
+  	scrollamount     number                           Defines the scrolling amount at each interval in pixels. Default value is 6.
+  	width            pixel, percentage                Defines the marquee's width.
+  	height           pixel, percentage                Defines the marquee's height.
+  	hspace           pixels                           Defines horizontal space around the marquee.
+  	vspace           pixels                           Defines vertical space around the marquee.
+  	scrolldelay      seconds                          Defines how long delay will be between each jump. The   default value is 85 and smaller amounts than 60 will be   ignored.
 
  
     	
