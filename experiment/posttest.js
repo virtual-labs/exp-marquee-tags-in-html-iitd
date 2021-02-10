@@ -89,7 +89,7 @@
     },
 
     {
-      question: "We can provide width and height in ‹marquee› tag ?,
+      question: "We can provide width and height in â€¹marqueeâ€º tag ?",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the attribute and value which is used in ‹marquee› tag for moving it upwards.",
+      question: "Select the attribute and value which is used in â€¹marqueeâ€º tag for moving it upwards.",
       answers: {
         a: "direction='up'",
         b: "direction='top'",
@@ -122,9 +122,9 @@
 	{
       question: "How can we add background color in marquee text?",
       answers: {
-        a: "‹marquee background="red"›Virtual Labs‹/marquee›",
-        b: "‹marquee background-color="red"›Virtual Labs‹/marquee›",
-        c: "‹marquee bgcolor="red"›Virtual Labs‹/marquee›",
+        a: "â€¹marquee background=redâ€ºVirtual Labsâ€¹/marqueeâ€º",
+        b: "â€¹marquee background-color=redâ€ºVirtual Labsâ€¹/marqueeâ€º",
+        c: "â€¹marquee bgcolor=redâ€ºVirtual Labsâ€¹/marqueeâ€º",
         d: "None of the above"
       },
       correctAnswer: "c"
