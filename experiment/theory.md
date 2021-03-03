@@ -1,9 +1,10 @@
 
-<b>1.1 Introduction</b>
+### 1.1 Introduction
+
 The HTML ‹marquee› tag is used for scrolling piece of text or image displayed either horizontally across or vertically down your web site page depending on the settings.
 
 
-<b>1.2 Syntax</b>
+### 1.2 Syntax<
 
 
 ‹marquee attribute="value"›content‹/marquee›
@@ -11,7 +12,7 @@ The HTML ‹marquee› tag is used for scrolling piece of text or image displaye
 ‹marquee direction="left" behavior="scroll" bgcolor="red" scrolldelay="100milisec"›Visit Lab‹/marquee›
 
 
-<b>1.3 Attributes of ‹img› tag</b>
+### 1.3 Attributes of ‹img› tag
 
  	 Attribute        Value                            Description
   	behavior         scroll, slide, alternate         Defines the scrolling type.
