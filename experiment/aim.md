@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of ‹marquee› tag in HTML code.
-- using marquee in HTML pages through proper syntax.
+- Demonstrate working of ‹marquee› tag in HTML code.
+- Using marquee in HTML pages through proper syntax.
