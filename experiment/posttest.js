@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "A marquee will make infinite loops by default until we provide a specific value for the same.",
+      question: "Q1. A marquee will make infinite loops by default until we provide a specific value for the same.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "We can provide width and height in ‹marquee› tag ?",
+      question: "Q2. We can provide width and height in ‹marquee› tag?",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the attribute and value which is used in ‹marquee› tag for moving it upwards.",
+      question: "Q3. Select the attribute and value which is used in ‹marquee› tag for moving it upwards.",
       answers: {
         a: "direction='up'",
         b: "direction='top'",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Select the correct values of behavior attribute of marquee tag.",
+      question: "Q4. Select the correct values of behavior attribute of marquee tag.",
       answers: {
         a: "scroll",
         b: "slide",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "How can we add background color in marquee text?",
+      question: "Q5. How can we add background color in marquee text?",
       answers: {
         a: "‹marquee background=red›Virtual Labs‹/marquee›",
         b: "‹marquee background-color=red›Virtual Labs‹/marquee›",
