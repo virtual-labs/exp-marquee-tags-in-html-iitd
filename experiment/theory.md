@@ -4,7 +4,7 @@
 The HTML ‹marquee› tag is used for scrolling piece of text or image displayed either horizontally across or vertically down your web site page depending on the settings.
 
 
-### 1.2 Syntax<
+### 1.2 Syntax
 
 
 ‹marquee attribute="value"›content‹/marquee›
