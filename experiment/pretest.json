@@ -1,1 +1,42 @@
-[{"question":"Q1. ‹marquee› tag is used for scrolling piece of text or image.","answers":{"a":"True","b":"False"},"correctAnswer":"a"},{"question":"Q2. ‹marquee› is an empty element.","answers":{"a":"True","b":"False"},"correctAnswer":"a"},{"question":"Q3. Marquee is a tag in HTML to____________.","answers":{"a":"Mark the text so that it is hidden in browser","b":"Mark the list of items to maintain inqueue","c":"Display text with scrolling effect","d":"All of the above"},"correctAnswer":"a"},{"question":"Q4. Which is not a property of attribute behaviour of ‹marquee› tag?","answers":{"a":"Blur","b":"Scroll","c":"Slide","d":"Alternate"},"correctAnswer":"a"},{"question":"Q5. What is the correct HTML for creating a marquee?","answers":{"a":"‹marquee attribute=value /›","b":"‹marquee attribute=value›‹marquee/›","c":"‹/marquee attribute=value›","d":"All of the above"},"correctAnswer":"a"}]
+[{
+	"question": "Q1. ‹marquee› tag is used for scrolling piece of text or image.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. ‹marquee› is an empty element.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Marquee is a tag in HTML to____________.",
+	"answers": {
+		"a": "Mark the text so that it is hidden in browser",
+		"b": "Mark the list of items to maintain inqueue",
+		"c": "Display text with scrolling effect",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Which is not a property of attribute behaviour of ‹marquee› tag?",
+	"answers": {
+		"a": "Blur",
+		"b": "Scroll",
+		"c": "Slide",
+		"d": "Alternate"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. What is the correct HTML for creating a marquee?",
+	"answers": {
+		"a": "‹marquee attribute=value /›",
+		"b": "‹marquee attribute=value›‹marquee/›",
+		"c": "‹/marquee attribute=value›",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}]
