@@ -125,7 +125,7 @@
       question: "Q5. What is the correct HTML for creating a marquee?",
       answers: {
         a: "‹marquee attribute= 'value'/›",
-        b: "‹marquee attribute= 'value'›‹marquee/›",
+        b: "‹marquee attribute= 'value'›‹/marquee›",
         c: "‹/marquee attribute=value›",
         d: "None of the above"
       },
