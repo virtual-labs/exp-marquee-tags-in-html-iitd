@@ -80,12 +80,14 @@
 
   const myQuestions = [
     {
-      question: "Q1. ‹marquee› tag is used for scrolling piece of text or image.",
+      question: "Q1. Scrolling piece of text displayed either horizontally or vertically created by: ",
       answers: {
-        a: "True",
-        b: "False"
+        a: "<floating text> tag",
+        b: "<scrolling text> tag",
+	c: "<marquee> tag",
+	d: "None of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 
     {
@@ -98,14 +100,14 @@
     },
 
     {
-      question: "Q3. Marquee is a tag in HTML to____________.",
+      question: "Q3. <Marquee> tag attribute loop defines _____.",
       answers: {
-        a: "Mark the text so that it is hidden in browser",
-        b: "Mark the list of items to maintain inqueue",
-        c: "Display text with scrolling effect",
+        a: "Horizontal space around the marquee",
+        b: "how many times the content will scroll",
+        c: "The scrolling amount at each interval in pixels",
         d: "All of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 	
 	{
@@ -122,12 +124,12 @@
 	{
       question: "Q5. What is the correct HTML for creating a marquee?",
       answers: {
-        a: "‹marquee attribute=value /›",
-        b: "‹marquee attribute=value›‹marquee/›",
+        a: "‹marquee attribute= 'value'/›",
+        b: "‹marquee attribute= 'value'›‹marquee/›",
         c: "‹/marquee attribute=value›",
-        d: "All of the above"
+        d: "None of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
   ];
 
