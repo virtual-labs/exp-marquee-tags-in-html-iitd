@@ -109,14 +109,14 @@
     },
 	
 	{
-      question: "Q4. Select the correct values of behavior attribute of marquee tag.",
+      question: "Q4. We can change the marquee speed using _____ attribute.",
       answers: {
-        a: "scroll",
-        b: "slide",
-        c: "alternate",
-        d: "All of the above"      
+        a: "scrolldelay",
+        b: "scrollamount",
+        c: "loop",
+        d: "None of the above"      
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
 	
 	{
@@ -124,7 +124,7 @@
       answers: {
         a: "‹marquee background=red›Virtual Labs‹/marquee›",
         b: "‹marquee background-color=red›Virtual Labs‹/marquee›",
-        c: "‹marquee bgcolor=red›Virtual Labs‹/marquee›",
+        c: "‹marquee bgcolor='red'›Virtual Labs‹/marquee›",
         d: "None of the above"
       },
       correctAnswer: "c"
