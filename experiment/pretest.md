@@ -7,11 +7,11 @@ B   &lt;scrolling text&gt; tag <br>
 <b>C   &lt;marquee&gt; tag</b> <br>
 D   None of the above <br>
 
-Q2. ‹marquee› is an empty element.<br>
+Q2. &lt;marquee&gt; is an empty element.<br>
 <b>A  True<br></b>
 B   False<br>
 
-Q3. <Marquee> tag attribute loop defines _____.<br>
+Q3. &lt;Marquee&gt; tag attribute loop defines _____.<br>
 A  Horizontal space around the marquee<br>
 <b>B  how many times the content will scroll</b><br>
 C The scrolling amount at each interval in pixels<br>
