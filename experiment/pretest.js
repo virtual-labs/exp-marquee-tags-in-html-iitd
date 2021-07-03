@@ -103,7 +103,7 @@
       question: "Q3. &lt;marquee&gt; tag attribute loop defines _____.",
       answers: {
         a: "Horizontal space around the marquee",
-        b: "how many times the content will scroll",
+        b: "How many times the content will scroll",
         c: "The scrolling amount at each interval in pixels",
         d: "All of the above"
       },
