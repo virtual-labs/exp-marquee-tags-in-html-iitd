@@ -15,14 +15,14 @@ C  moving='up'<br>
 D  moving='top'<br>
 
 
-Q4. Select the correct values of behavior attribute of marquee tag.<br>
-A  scroll<br>
-B  slide<br>
-C  alternate<br>
-<b>D  All of the above<br></b>
+Q4.  We can change the marquee speed using _____ attribute.<br>
+A  scrolldelay<br>
+<b>B  scrollamount</b><br>
+C  loop<br>
+D  None of the above<br>
 
 Q5. How can we add background color in marquee text?<br>
-A  ‹marquee background="red"›Virtual Labs‹/marquee› <br>
-B  ‹marquee background-color="red"›Virtual Labs‹/marquee›<br>
-<b>C  ‹marquee bgcolor="red"›Virtual Labs‹/marquee›<br></b>
+A  ‹marquee background=red›Virtual Labs‹/marquee› <br>
+B  ‹marquee background-color=red›Virtual Labs‹/marquee›<br>
+<b>C  ‹marquee bgcolor='red'›Virtual Labs‹/marquee›<br></b>
 D  None of the above<br>
