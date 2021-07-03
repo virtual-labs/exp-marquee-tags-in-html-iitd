@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. We can provide width and height in ‹marquee› tag?",
+      question: "Q2. Can we provide width and height in ‹marquee› tag?",
       answers: {
         a: "True",
         b: "False"
