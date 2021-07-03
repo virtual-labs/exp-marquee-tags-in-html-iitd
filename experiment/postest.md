@@ -4,7 +4,7 @@ Q1.  A marquee will make infinite loops by default until we provide a specific v
 <b>A  True<br></b>
 B   False<br>
 
-Q2.  We can provide width and height in ‹marquee› tag ?<br>
+Q2. Can we provide width and height in ‹marquee› tag ?<br>
 <b>A  True<br></b>
 B   False<br>
 
