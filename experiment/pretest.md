@@ -13,7 +13,7 @@ B   False<br>
 
 Q3. &lt;Marquee&gt; tag attribute loop defines _____.<br>
 A  Horizontal space around the marquee<br>
-<b>B  how many times the content will scroll</b><br>
+<b>B  How many times the content will scroll</b><br>
 C The scrolling amount at each interval in pixels<br>
 D  All of the above<br>
 
