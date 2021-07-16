@@ -1,0 +1,44 @@
+[{
+	"question": "Q1. Scrolling piece of text displayed either horizontally or vertically created by:",
+	"answers": {
+		"a": "&lt;floating text&gt; tag",
+		"b": "&lt;scrolling text&gt; tag",
+		"c": "&lt;marquee&gt; tag",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q2. &lt;marquee&gt; is an empty element.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q3. &lt;marquee&gt; tag attribute loop defines _____.",
+	"answers": {
+		"a": "Horizontal space around the marquee",
+		"b": "How many times the content will scroll",
+		"c": "The scrolling amount at each interval in pixels",
+		"d": "All of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. Which is not a property of attribute behaviour of &lt;marquee&gt; tag?",
+	"answers": {
+		"a": "Blur",
+		"b": "Scroll",
+		"c": "Slide",
+		"d": "Alternate"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. What is the correct HTML for creating a marquee?",
+	"answers": {
+		"a": "&lt;marquee attribute= 'value'/&gt;",
+		"b": "&lt;marquee attribute= 'value'&gt;&lt;/marquee&gt;",
+		"c": "&lt;/marquee attribute=value&gt;",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
