@@ -13,7 +13,7 @@
 		"a": "True",
 		"b": "False"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
 	"question": "Q3. &lt;marquee&gt; tag attribute loop defines _____.",
 	"answers": {
