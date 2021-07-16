@@ -96,7 +96,7 @@
         a: "True",
         b: "False"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 
     {
