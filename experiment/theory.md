@@ -15,7 +15,7 @@ The HTML ‹marquee› tag is used for scrolling piece of text or image displaye
 ### 1.3 Attributes of ‹img› tag
 
 |	Attribute   |     Value      |  Description    |
-|----------|:-------------:|------:|
+|----------|:-------------|:------|
 |  	behavior|   scroll, slide, alternate |    Defines the scrolling type.|
 | 	direction	 |   up, down, left, righ   |   Sets the direction for the scrolling content.|
 | bgcolor |  rgb(x,x,x), #xxxxxx, colorname|  Used to give a background color.|
