@@ -8,8 +8,8 @@ B   &lt;scrolling text&gt; tag <br>
 D   None of the above <br>
 
 Q2. &lt;marquee&gt; is an empty element.<br>
-<b>A  True<br></b>
-B   False<br>
+A  True<br>
+<b>B   False<br></b>
 
 Q3. &lt;Marquee&gt; tag attribute loop defines _____.<br>
 A  Horizontal space around the marquee<br>
